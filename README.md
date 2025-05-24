@@ -24,17 +24,39 @@ Welcome! 👋 This repository is a **collection of exercises, examples, and mini
 ---
 
 ## 📁 Struttura della repository / Repository Structure
-Complete-C/
-└── 01-variabili-e-operatori/        # Variabili, input/output, operazioni base
-└── 02-condizioni/                   # If, else, switch
-└── 03-cicli/                       # For, while, do-while
-└── 04-array/                       # Array, ricerca, ordinamento
-└── 05-stringhe/                    # Stringhe, palindromi, vocali
-└── 06-funzioni/                    # Funzioni personalizzate
-└── 07-puntatori/                   # Puntatori, swap, memoria
-└── 08-matrici/                     # Matrici 2D, somma, trasposizione
-└── 09-progetti/                    # Mini-progetti pratici
-└── utils/                         # Funzioni di utilità, helper
+
+La repository è organizzata in cartelle, ognuna dedicata a un argomento del linguaggio C:
+
+📂 `01-variabili-e-operatori`  
+  🧮 Operazioni base, input/output, somma, scambio valori
+
+📂 `02-condizioni`  
+  🔀 If, else, switch, condizioni logiche
+
+📂 `03-cicli`  
+  🔁 For, while, do-while, cicli con contatori e condizioni
+
+📂 `04-array`  
+  🧱 Array statici, somma, ricerca, ordinamento, duplicati
+
+📂 `05-stringhe`  
+  📝 Manipolazione stringhe, vocali, palindromi, lettere
+
+📂 `06-funzioni`  
+  🔧 Funzioni personalizzate, parametri, return
+
+📂 `07-puntatori`  
+  📍 Introduzione ai puntatori, swap, accesso in memoria
+
+📂 `08-matrici`  
+  🧮 Matrici 2D, somma righe/colonne, trasposizione
+
+📂 `09-progetti`  
+  🚧 Mini-progetti pratici: calcolatrice, rubrica, convertitore
+
+📂 `utils`  
+  🛠️  Funzioni utili, input helper, codice riutilizzabile
+
 
 
 
