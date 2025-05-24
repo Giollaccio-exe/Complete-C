@@ -25,19 +25,18 @@ Welcome! 👋 This repository is a **collection of exercises, examples, and mini
 
 ## 📁 Struttura della repository / Repository Structure
 
-Ecco la struttura base delle cartelle con gli argomenti trattati:
-
 Complete-C/
-├── 01-variabili-e-operatori/ # Operazioni base, input/output, aritmetica
-├── 02-condizioni/ # Uso di if, else e switch
-├── 03-cicli/ # For, while, do-while, esercizi ripetitivi
-├── 04-array/ # Array statici, somme, ricerca, manipolazione
-├── 05-stringhe/ # Stringhe (char[]), vocali, palindromi, parole
-├── 06-funzioni/ # Creazione e uso di funzioni personalizzate
-├── 07-puntatori/ # Introduzione ai puntatori, swap, indirizzi
-├── 08-matrici/ # Array 2D, somma, trasposizione, prodotto
-├── 09-progetti/ # Mini-progetti pratici (calcolatrice, rubrica, ecc.)
-└── utils/ # Funzioni riutilizzabili, input helper, ecc.
+├── 01-variabili-e-operatori       # Input/output, variabili, operazioni base
+├── 02-condizioni                  # If, else, switch
+├── 03-cicli                      # For, while, do-while
+├── 04-array                      # Array, ricerca, ordinamento
+├── 05-stringhe                   # Stringhe, palindromi, vocali
+├── 06-funzioni                   # Funzioni personalizzate
+├── 07-puntatori                  # Puntatori base, swap
+├── 08-matrici                   # Matrici 2D, somma, trasposizione
+├── 09-progetti                  # Mini-progetti pratici
+└── utils                        # Funzioni di utilità
+
 
 ✍️ Crediti / Credits
 Creato da: Giollaccio-exe
